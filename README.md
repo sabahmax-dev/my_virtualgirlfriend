@@ -291,7 +291,7 @@ my_virtualgirlfriend/
 # 质量控制参数
 --min-length N            # 最小输出长度（默认15）
 --max-length N            # 最大输出长度（默认200）
---similarity-threshold F  # 去重相似度阈值（默认0.65）
+--similarity-threshold F  # 去重相似度阈值（默认0.90）
 ```
 
 详细使用说明请参考：
